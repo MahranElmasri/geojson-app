@@ -68,4 +68,4 @@ The app displays a loading spinner during data fetching and shows any errors enc
 
 ### Screenshot
 
-[![Screen Shot](./src/screen-shot.png)](https://recordit.co/L2hkwc1Hzu)
+[![Screen Shot](./screen_shot.png)](https://recordit.co/L2hkwc1Hzu)
