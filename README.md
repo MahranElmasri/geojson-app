@@ -7,8 +7,8 @@ Fetches GeoJSON data from the OpenStreetMap API and displays it on the page. The
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#Usage)
-  - [Testing](#Testing)
+  - [Usage](#usage)
+  - [Testing](#testing)
 - [Features](#features)
 - [Dependencies Used](#dependencies-used)
 
@@ -68,4 +68,4 @@ The app displays a loading spinner during data fetching and shows any errors enc
 
 ### Screenshot
 
-[![Screen Shot](./src/screen-shot.png)](https://recordit.co/sSp4PQdMUD)
+[![Screen Shot](./src/screen-shot.png)](https://recordit.co/L2hkwc1Hzu)
