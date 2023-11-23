@@ -1,0 +1,57 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container h2 {
+    color: #333;
+  }
+  
+  .container button {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .container button:disabled {
+    background-color: #ccc;
+  }
+  
+  .container button.loading {
+    background-color: #2196f3;
+  }
+  
+  .container pre {
+    margin-top: 20px;
+    white-space: pre-wrap;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  
+  .container form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .container label {
+    margin-bottom: 5px;
+  }
+  
+  .container input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
